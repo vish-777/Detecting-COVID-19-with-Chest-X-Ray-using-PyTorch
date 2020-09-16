@@ -2,7 +2,8 @@
 Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19
 
 
-Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) on Kaggle
+Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) on Kaggle.
+
 some of the tasks are as follows:
 
 Task 1: Importing Libraries.
