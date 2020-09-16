@@ -2,11 +2,12 @@
 
 some of the tasks are as follows:
 
-Task 1: Importing Libraries
-Task 2: Creating Custom Dataset
-Task 3: Image Transformations
-Task 4: Prepare DataLoader
-Task 5: Data Visualization
-Task 6: Creating the Model
-Task 7: Training the Model
-Task 8: Final Results
+Task 1: Importing Libraries.
+
+Task 2: Creating Custom Dataset.
+Task 3: Image Transformations.
+Task 4: Prepare DataLoader.
+Task 5: Data Visualization.
+Task 6: Creating the Model.
+Task 7: Training the Model.
+Task 8: Final Results.
